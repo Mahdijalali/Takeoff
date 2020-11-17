@@ -1,0 +1,22 @@
+.pstyle {
+    margin: 16px;
+    margin-top: 10px;
+  }
+  .Boldtext{
+    font-weight: 900;
+    padding: 0ex;
+    color: green;
+  }
+  .myrecords{
+    border:1px solid #999;
+    padding-top: auto;
+    padding-bottom: auto;
+    margin: 5px; 
+    height: 70px;
+  }
+  .myrecords:hover{
+    background-color: gainsboro;
+  }
+  .spanCustomized{
+    margin: 5px;
+  }
